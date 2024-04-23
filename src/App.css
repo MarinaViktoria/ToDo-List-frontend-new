@@ -1,0 +1,50 @@
+body {
+  background: url("https://images.unsplash.com/photo-1542435503-956c469947f6?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  /*Foto von Jess Bailey auf Unsplash*/
+
+}
+.container {
+  margin-top: 11%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  font-size: 37px;
+  color: #124076;
+  font-family: 'Gloria Hallelujah', cursive;
+  }
+input {
+  display: block;
+  width: 30%;
+  border: none;
+  border-radius: 20px;
+  color: #124076;
+  font-size: 20px;
+  background-color: beige;
+  padding: 10px;
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-bottom: 20px;
+  }
+button {
+  padding: 10px 20px 10px 20px;
+  font-family: 'Gloria Hallelujah', cursive;
+  background-color: beige;
+  color: #124076;
+  font-size: 20px;
+  border: 1px solid #124076;
+  border-radius: 20px;
+  cursor: pointer;
+  }
+p {
+  max-width: 400px;
+  background: beige;
+  color: #124076;
+  border-radius: 20px;
+  padding-left: 5px;
+  margin-top: 20px;
+  font-family: 'Gloria Hallelujah', cursive;
+  width: 600px;
+  font-size: 20px
+  }     
+
